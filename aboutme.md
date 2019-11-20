@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Overview
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, human! Thanks for stopping by. Hopefully this will make my digital persona a little less blurry.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### about me
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am an optimistic person, working hard to improve myself everyday. I try my best to nourish and exercise a stoic mindset. You'll most likely find me learning languages, coding, sketching or taking long walks. I also love coffee shops, videogame soundtracks and good stories. 
