@@ -18,6 +18,10 @@ Without further ado, here's the plan:
 at-a-glance. Various common vocabulary words for each kanji.
 - The allmighty Memrise: I'm using [this](https://www.memrise.com/course/24172/jlpt-n3-vocab-with-audio/) course.
 If you're an Anki person, go for it.
+- Jisho online dictionary/Imiwa App for example sentences.
+- Delvin Language for cramming vocabulary in context. Uses small clips from movies and tv shows.
+- Todai app for reading practice. Just awesome. Has configurable furigana by JLPT level, spaced 
+repetition decks per article. Includes news from NHK easy and many others.
 - 日本語能力試験問題集N3読解スピードマスタ as reference book. Also has a companion Memrise course built by the community.
 - ~~Animal crossing~~. Wait, what?
 
